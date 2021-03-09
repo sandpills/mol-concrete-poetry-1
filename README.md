@@ -1,5 +1,7 @@
 # mol-concrete-poetry-attempt1
 
+Week 4 Poetry screenshots:
+
 ![Homework image one, i](https://itp.leqihe.online/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-7.05.39-AM.png)
 
 ![Homework image two, you](https://itp.leqihe.online/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-7.05.48-AM.png)
